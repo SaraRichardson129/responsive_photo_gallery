@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+
+}
+
+.container {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+   
+  
+
+ }
+
+ .header {
+     height: 200px;
+     width: 472px;
+     border: solid 2px black;
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+img  { 
+    width: 236px;
+    height: auto;
+    padding: 1px;
+ 
+}
+
+
+
+
+
+
+
