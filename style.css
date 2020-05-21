@@ -12,7 +12,6 @@
 .header {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
     height: 200px;
     width: 472px;
     border: solid 2px black;
@@ -23,8 +22,8 @@
 
 .photoContainer {
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 
 img  { 
